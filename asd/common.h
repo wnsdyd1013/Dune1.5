@@ -1,3 +1,5 @@
+//리포지토리 연결 확인용 주석
+
 #ifndef _COMMON_H_
 #define _COMMON_H_
 
